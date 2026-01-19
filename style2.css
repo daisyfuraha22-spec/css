@@ -1,0 +1,33 @@
+body{
+    background-color: peachpuff;
+}
+h1{
+    color: black;
+    letter-spacing: 17px;
+    text-align: center;
+}
+h2{
+    /* border: 2px  bisque solid; */
+    border-top: 8px red double;
+    border-right: 8px lightgreen solid;
+    border-bottom: 8px green solid;
+    border-left: 8px blue solid;
+
+    /* padding: 50px; */
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left:50px;
+    background-color:rgb(185, 76, 76) ;
+
+    /* margin */
+    /* margin: 70px; */
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+a{
+    background-color: red;
+    color: white;
+}
