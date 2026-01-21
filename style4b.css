@@ -1,0 +1,29 @@
+#division1{
+    background-color: black;
+    height: 500px;
+}
+.division2{
+    background-color: white;
+    height: 15px;
+}
+#division3{
+    background-color: red;
+    height: 500px;
+}
+#division4{
+    background-color: green;
+    height: 500px;
+}
+.flag{
+    width: auto;
+    height: auto;
+    display: block;
+    margin: auto;
+    overlay: auto;
+    
+
+    
+
+    
+    
+}
